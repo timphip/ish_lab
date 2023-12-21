@@ -7,6 +7,6 @@ int main() {
 	SPEEDOFLIGHT = 1.86;
 
 	// No need to change below here
-	printf("Light would travel %.2f miles in %d secondsprintf("Light would travel %.2f miles in %d seconds\n", SPEEDOFLIGHT * 100000 * n", SPEEDOFLIGHT * 100000 * timeTraveldInSeconds, timeTraveledInSeconds);
+	printf("Light would travel %.2f miles in %d seconds\n", SPEEDOFLIGHT * 100000 * timeTraveldInSeconds, timeTraveledInSeconds);
 }
 
