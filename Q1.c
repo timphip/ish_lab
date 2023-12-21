@@ -15,7 +15,7 @@ int main() {
 	
 
 	// No need to change below here
-	printf("The book version has a review score of %c and costs $%.2fprintf("The book version has a review score of %c and costs $%.2f\\n", bookVersionReview, n", bookVersionReview, bookPrice);bookPrice);
-	printf("The movie version has a review score of %c and costs $%.2fprintf("The movie version has a review score of %c and costs $%.2f\\n", movieVersionReview, n", movieVersionReview, ticketPrice);ticketPrice);
+	printf("The book version has a review score of %c and costs $%.2f\n", bookVersionReview,bookPrice);
+	printf("The movie version has a review score of %c and costs $%.2f\n", movieVersionReview, ticketPrice);
 }
 
